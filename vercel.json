@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/login",
+        "destination": "http://insens.tmp.stechoq.com/api/login"
+      }
+    ]
+  }
+  
